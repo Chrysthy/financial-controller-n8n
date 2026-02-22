@@ -34,6 +34,7 @@
 * **Google Sheets Tool:** Acts as a lightweight database for logging information collected by the agent.
 
 <br>
+
 ## 🛠 Tools
 
 - [n8n](https://n8n.io/) – Automation workflow tool
