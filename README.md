@@ -23,3 +23,14 @@
 <img src=".github/gif-do-projeto.gif" alt="gif do projeto">
 </p>
 <br>
+
+
+## 🔗 Overview
+
+* **Telegram Bot API:** The chat interface for user interaction.
+* **Groq Chat Model:** Low-latency AI engine (LPU) for near-instant response times.
+* **n8n AI Agent:** The orchestrator that connects the LLM with external tools.
+* **Simple Memory:** Memory buffer to maintain context throughout the conversation.
+* **Google Sheets Tool:** Acts as a lightweight database for logging information collected by the agent.
+
+<br>
