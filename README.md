@@ -75,3 +75,10 @@
 ## 💻 Project
 
 These workflows were created as part of a practical study plan in n8n, aiming to master process automation and AI agent orchestration.
+
+<br>
+
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
