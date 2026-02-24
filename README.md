@@ -2,7 +2,11 @@
 
 <p align="center">
  Turn your Telegram into a personal finance assistant. Send your expenses in natural language (e.g., 'Spent $50 on gas'), and let the AI organize and input the values straight into your Google Sheets.
-</p
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
+</p>
 
 <p align="center">  
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
