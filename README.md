@@ -43,3 +43,29 @@
 - n8n AI Agent 
 - Simple Memory
 - Google Sheets Tool
+
+
+<br>
+
+## ⚙ How to Run
+
+1. Prepare External APIs
+* **Telegram:** Search for `@BotFather` on Telegram, create a new bot, and save the `API Token`.
+* **Groq:** Go to the [Groq Cloud Console](https://console.groq.com/), sign up, and generate an `API Key`.
+* **Google Sheets:** Create a new spreadsheet and copy its ID from the URL. Set up your column headers in the first row.
+
+2. Import the Workflow
+* In n8n, go to **Workflows** > **Import from File** and upload the JSON file from this repository.
+
+3. Configure Credentials in n8n
+* **Telegram Receiver:** Create a new credential and paste your `Access Token`.
+* **Groq Chat Model:** Create a new `Groq API` credential and paste your key.
+* **Google Sheets:** Set up a `Google Sheets OAuth2 API` credential to link your Google account.
+
+4. Node Configuration
+* In the **Google Sheets node**, select your spreadsheet and map the data to the correct columns.
+* In the **Groq Chat Model node**, ensure an active model is selected (e.g., `llama3-70b-8192`).
+
+5. Deployment
+* Click **Execute Workflow** to run a manual test.
+* If everything works, toggle the **Publish** button (top right) to keep the bot active 24/7.
