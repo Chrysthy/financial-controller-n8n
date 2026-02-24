@@ -78,6 +78,13 @@ These workflows were created as part of a practical study plan in n8n, aiming to
 
 <br>
 
+<br>
+
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
+
+<br>
+
 
 ## 📜 License
 
