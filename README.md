@@ -69,3 +69,9 @@
 5. Deployment
 * Click **Execute Workflow** to run a manual test.
 * If everything works, toggle the **Publish** button (top right) to keep the bot active 24/7.
+
+<br>
+
+## 💻 Project
+
+These workflows were created as part of a practical study plan in n8n, aiming to master process automation and AI agent orchestration.
